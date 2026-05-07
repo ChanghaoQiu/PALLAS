@@ -1,5 +1,5 @@
 # PALLAS
-PALLAS is a \textbf{P}er-slot \textbf{A}djustment and \textbf{L}oad-\textbf{L}earned \textbf{A}daptive \textbf{S}haping defense for multi-tab WF.
+PALLAS is a **P**er-slot **A**djustment and **L**oad-**L**earned **A**daptive **S**haping defense for multi-tab WF.
 PALLAS consists of three key modules that together realize template-driven shaping framework.
 
 ## Module 1 — State-Template Learning
