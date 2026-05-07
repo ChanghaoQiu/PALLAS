@@ -12,6 +12,7 @@ python state_template_learning.py \
     --out       ./config/stl_config.pkl \
     --delta 0.2 --K_slot 30 --num_states 2 \
     --max_templates 48 --max_global_templates 64
+```
 
 ## Module 2 — Template Smoothing
 
